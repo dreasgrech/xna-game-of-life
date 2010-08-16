@@ -1,0 +1,271 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="30289CA1-96F5-4028-8121-BD53CD65A398/f:GridCell.cs" caret="0" fromTop="0" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/d:ConsoleCommands/f:ClearGrid.cs" caret="210" fromTop="7" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/d:ConsoleCommands/f:StepGenerationCommand.cs" caret="449" fromTop="18" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/d:ConsoleCommands/f:FullScreenCommand.cs" caret="935" fromTop="34" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/d:ConsoleCommands/f:CellSizeCommand.cs" caret="521" fromTop="18" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:GridFactory.cs" caret="1018" fromTop="24" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:AutomataCell.cs" caret="1029" fromTop="27" />
+      <File id="30289CA1-96F5-4028-8121-BD53CD65A398/f:Grid.cs" caret="1504" fromTop="0" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:PlaygroundGrid.cs" caret="1645" fromTop="15" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:Game1.cs" caret="70" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:Game1.cs" caret="1833" fromTop="13" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:PlaygroundGrid.cs" caret="2169" fromTop="28" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:PlaygroundGrid.cs" caret="2825" fromTop="30" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/d:ConsoleCommands/f:CellSizeCommand.cs" caret="612" fromTop="17" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/d:ConsoleCommands/f:CellSizeCommand.cs" caret="744" fromTop="22" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/d:ConsoleCommands/f:CellSizeCommand.cs" caret="332" fromTop="12" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/d:ConsoleCommands/f:CellSizeCommand.cs" caret="250" fromTop="10" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/d:ConsoleCommands/f:CellSizeCommand.cs" caret="522" fromTop="18" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:Game1.cs" caret="2574" fromTop="13" />
+      <File id="30289CA1-96F5-4028-8121-BD53CD65A398/f:Grid.cs" caret="1335" fromTop="24" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:PlaygroundGrid.cs" caret="1080" fromTop="20" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:Game1.cs" caret="1140" fromTop="6" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:GridFactory.cs" caret="571" fromTop="9" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:GridFactory.cs" caret="1409" fromTop="26" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:GridFactory.cs" caret="266" fromTop="2" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:GridFactory.cs" caret="1018" fromTop="27" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:Game1.cs" caret="2039" fromTop="19" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:Game1.cs" caret="1833" fromTop="15" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:PlaygroundGrid.cs" caret="3330" fromTop="15" />
+      <File id="30289CA1-96F5-4028-8121-BD53CD65A398/f:Grid.cs" caret="1805" fromTop="25" />
+      <File id="30289CA1-96F5-4028-8121-BD53CD65A398/f:Grid.cs" caret="2666" fromTop="14" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:PlaygroundGrid.cs" caret="1011" fromTop="3" />
+      <File id="9B3B44AA-64AF-4A13-B001-D3C3809AC165/f:Game1.cs" caret="70" fromTop="3" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="float" priority="1" />
+      <Item value="public" priority="21" />
+      <Item value="CellSize" priority="4" />
+      <Item value="cellSize" priority="3" />
+      <Item value="Color" priority="24" />
+      <Item value="this" priority="16" />
+      <Item value="game" priority="5" />
+      <Item value="Rectangle" priority="5" />
+      <Item value="size" priority="0" />
+      <Item value="new" priority="18" />
+      <Item value="position" priority="3" />
+      <Item value="Position" priority="3" />
+      <Item value="grid" priority="16" />
+      <Item value="Grid" priority="0" />
+      <Item value="GraphicsDevice" priority="0" />
+      <Item value="Window" priority="1" />
+      <Item value="Components" priority="0" />
+      <Item value="cursor" priority="1" />
+      <Item value="var" priority="2" />
+      <Item value="e" priority="2" />
+      <Item value="cell" priority="10" />
+      <Item value="Enabled" priority="4" />
+      <Item value="false" priority="8" />
+      <Item value="void" priority="6" />
+      <Item value="AutomataCell" priority="3" />
+      <Item value="interface" priority="0" />
+      <Item value="IGridBuilder" priority="1" />
+      <Item value="EmptyGrid" priority="2" />
+      <Item value="Game" priority="1" />
+      <Item value="SpriteBatch" priority="1" />
+      <Item value="spriteBatch" priority="8" />
+      <Item value="Random" priority="2" />
+      <Item value="random" priority="1" />
+      <Item value="double" priority="2" />
+      <Item value="lifeDistribution" priority="0" />
+      <Item value="PlaygroundGrid" priority="7" />
+      <Item value="RandomizedGrid" priority="0" />
+      <Item value="builder" priority="0" />
+      <Item value="cells" priority="2" />
+      <Item value="Initialize" priority="1" />
+      <Item value="Console" priority="0" />
+      <Item value="singleStrokeHandler" priority="2" />
+      <Item value="SingleKeyStroke" priority="0" />
+      <Item value="true" priority="7" />
+      <Item value="if" priority="8" />
+      <Item value="Keys" priority="3" />
+      <Item value="null" priority="0" />
+      <Item value="return" priority="13" />
+      <Item value="Size" priority="5" />
+      <Item value="sizeof" priority="0" />
+      <Item value="bool" priority="5" />
+      <Item value="newGeneration" priority="3" />
+      <Item value="for" priority="1" />
+      <Item value="i" priority="1" />
+      <Item value="else" priority="2" />
+      <Item value="graphics" priority="4" />
+      <Item value="LineColor" priority="0" />
+      <Item value="lineColor" priority="1" />
+      <Item value="int" priority="3" />
+      <Item value="GetNewGenerationStates" priority="0" />
+      <Item value="SetNewStates" priority="0" />
+      <Item value="Step" priority="0" />
+      <Item value="CurrentGeneration" priority="0" />
+      <Item value="ClearGridCommand" priority="0" />
+      <Item value="Interval" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="console" priority="2" />
+      <Item value="GameConsole" priority="0" />
+      <Item value="GameConsoleOptions" priority="1" />
+      <Item value="BackgroundColor" priority="0" />
+      <Item value="FontColor" priority="0" />
+      <Item value="StepGenerationCommand" priority="1" />
+      <Item value="cursor_LeftClick" priority="0" />
+      <Item value="FullScreenCommand" priority="1" />
+      <Item value="GraphicsDeviceManager" priority="0" />
+      <Item value="arguments" priority="2" />
+      <Item value="switch" priority="0" />
+      <Item value="case" priority="0" />
+      <Item value="break" priority="0" />
+      <Item value="LinkedList" priority="2" />
+      <Item value="List" priority="0" />
+      <Item value="Point" priority="4" />
+      <Item value="history" priority="0" />
+      <Item value="LinkedList&lt;List&lt;Point&gt;&gt;" priority="0" />
+      <Item value="newState" priority="1" />
+      <Item value="newG" priority="1" />
+      <Item value="Array" priority="0" />
+      <Item value="OnColor" priority="1" />
+      <Item value="onColor" priority="4" />
+      <Item value="OffColor" priority="1" />
+      <Item value="offColor" priority="4" />
+      <Item value="oncolor" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="readonly" priority="0" />
+      <Item value="CellSizeCommand" priority="2" />
+      <Item value="Grids" priority="0" />
+      <Item value="newSize" priority="2" />
+      <Item value="InitCells" priority="1" />
+      <Item value="initCells" priority="2" />
+      <Item value="Func" priority="0" />
+      <Item value="GridFactory" priority="1" />
+      <Item value="CellOnColor" priority="1" />
+      <Item value="CellOffColor" priority="0" />
+      <Item value="gridFactory" priority="1" />
+      <Item value="Obsolete" priority="0" />
+      <Item value="Init" priority="0" />
+      <Item value="Stop" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Graphics.Color">
+      <Item value="Black" priority="4" />
+      <Item value="White" priority="2" />
+      <Item value="Red" priority="0" />
+      <Item value="Crimson" priority="0" />
+      <Item value="DarkGreen" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GameWindow">
+      <Item value="ClientBounds" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Rectangle">
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GameComponentCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XNAMouse.MouseCursor">
+      <Item value="LeftClick" priority="0" />
+      <Item value="LeftDrag" priority="0" />
+      <Item value="RightClick" priority="0" />
+      <Item value="RightDrag" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GameOfLifeXNA.PlaygroundGrid">
+      <Item value="CellAtCoordinate" priority="0" />
+      <Item value="Enabled" priority="0" />
+      <Item value="Stop" priority="0" />
+      <Item value="Start" priority="1" />
+      <Item value="Clear" priority="0" />
+      <Item value="DrawLines" priority="1" />
+      <Item value="CellSize" priority="0" />
+      <Item value="ChangeGridSize" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XNAMouse.MouseClickEventArgs">
+      <Item value="Position" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Vector2">
+      <Item value="X" priority="0" />
+      <Item value="Y" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GameOfLifeXNA.AutomataCell">
+      <Item value="State" priority="6" />
+      <Item value="GridPostion" priority="2" />
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GameOfLifeXNA.Grids.EmptyGrid">
+      <Item value="lifeDistribution" priority="0" />
+      <Item value="onColor" priority="0" />
+      <Item value="offColor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GameOfLifeXNA.Grids.IGridBuilder">
+      <Item value="ConstructGrid" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XNASingleStroke.SingleKeyStroke">
+      <Item value="KeyDown" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XNASingleStroke.KeyDownEventArgs">
+      <Item value="Key" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Input.Keys">
+      <Item value="Enter" priority="1" />
+      <Item value="Space" priority="1" />
+      <Item value="Tab" priority="0" />
+      <Item value="Right" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Point">
+      <Item value="X" priority="3" />
+      <Item value="Y" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GraphicsDeviceManager">
+      <Item value="IsFullScreen" priority="1" />
+      <Item value="ApplyChanges" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GameOfLifeXNA.ConsoleCommands.ClearGridCommand">
+      <Item value="grid" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XNAGameConsole.GameConsole">
+      <Item value="Write" priority="0" />
+      <Item value="Enabled" priority="0" />
+      <Item value="Opened" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.LinkedList`1">
+      <Item value="AddLast" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GameOfLifeXNA.ConsoleCommands.CellSizeCommand">
+      <Item value="grid" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XNAGrid.Grid`1">
+      <Item value="initCells" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GameOfLifeXNA.GridFactory">
+      <Item value="game" priority="0" />
+      <Item value="spriteBatch" priority="0" />
+      <Item value="NewEmptyGrid" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
